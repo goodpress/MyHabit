@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<keymap version="1" name="huoen-keymap" parent="Mac OS X 10.5+">
+  <action id="$Delete">
+    <keyboard-shortcut first-keystroke="DELETE" />
+    <keyboard-shortcut first-keystroke="control D" />
+  </action>
+  <action id="Debug" />
+  <action id="Editor Delete">
+    <keyboard-shortcut first-keystroke="control D" />
+  </action>
+  <action id="EditorDeleteLine" />
+  <action id="EditorDeleteToWordStart">
+    <keyboard-shortcut first-keystroke="meta BACK_SPACE" />
+  </action>
+  <action id="EditorLineEndWithSelection">
+    <keyboard-shortcut first-keystroke="shift END" />
+    <keyboard-shortcut first-keystroke="shift meta RIGHT" />
+    <keyboard-shortcut first-keystroke="shift control E" />
+  </action>
+  <action id="EditorLineStartWithSelection">
+    <keyboard-shortcut first-keystroke="shift HOME" />
+    <keyboard-shortcut first-keystroke="shift meta LEFT" />
+    <keyboard-shortcut first-keystroke="shift control A" />
+  </action>
+  <action id="SafeDelete">
+    <keyboard-shortcut first-keystroke="meta DELETE" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="control alt ENTER" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="control alt DOWN" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="control alt LEFT" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="control alt RIGHT" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="control alt UP" />
+  </action>
+</keymap>
+
